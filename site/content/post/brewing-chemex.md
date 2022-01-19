@@ -1,5 +1,5 @@
 ---
-title: The evolution of GIS adoption in orhanizations
+title: The evolution of GIS adoption in organizations
 date: 2017-01-04T15:04:10.000Z
 description: >
   Many organizations are turning to GIS. In the beginning there is GIS software
