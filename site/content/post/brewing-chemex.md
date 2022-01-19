@@ -1,10 +1,25 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: The evolution of GIS adoption in orhanizations
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: >
+  Many organizations are turning to GIS. In the beginning there is GIS software
+  selection and acquisition. That in itself is not as easy as it seems (we have
+  a post to guide you with that). What GIS solution should we purchase?
+  Commercial? Open Source? Do we need hardware? What should that be? After this
+  decision is made then comes deployment. Great now you have a GIS system in
+  place what's next? Next comes the steep learning curve where your staff learns
+  how to use the GIS tools effectively. At this point the focus is on getting
+  your data into GIS. That will take a while and only then can you start getting
+  the benefits of GIS such as analysis and map publishing. But soon there will
+  come a time where you will realize that having a map is not enough. Soon you
+  will need to have applications built around those maps. Then comes the phase
+  where you will also realize that a GIS system should not live in isolation in
+  the organization. Inevitably there are things in your other subsystems such as
+  CRM, WMS etc. that should be integrated with GIS and vice versa. The trouble
+  is neither your GIS staff nor your IT has the time and knowhow to perform
+  those integrations! That's when you should turn to an external integration
+  services vendor like us to connect your GIS to your other subsystems and train
+  your staff on how to do it. 
 image: /img/blog-chemex.jpg
 ---
 
